@@ -1,0 +1,1568 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2017-07-27T07:38:49Z</Created>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>Wording.xlsx</Path>
+   <SheetName>List</SheetName>
+   <SheetName>EN</SheetName>
+   <SheetName>KR</SheetName>
+   <Xct>
+    <Count>96</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>1</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error</Text>
+     <Text>Error</Text>
+    </Crn>
+    <Crn>
+     <Row>2</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_default</Text>
+     <Text>Please try again, and if it continues, please report the problem for better service. (%d)</Text>
+    </Crn>
+    <Crn>
+     <Row>3</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_incorrect_phone_number</Text>
+     <Text>You entered an incorrect phone number.</Text>
+    </Crn>
+    <Crn>
+     <Row>4</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_number_not_verified</Text>
+     <Text>Number not verified</Text>
+    </Crn>
+    <Crn>
+     <Row>5</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_unexpected</Text>
+     <Text>Unexpected error</Text>
+    </Crn>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_invalidate_code</Text>
+     <Text>You entered an invalid 6-digit-code</Text>
+    </Crn>
+    <Crn>
+     <Row>7</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_too_many_request</Text>
+     <Text>Too Many Requests</Text>
+    </Crn>
+    <Crn>
+     <Row>8</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_too_many_request_message</Text>
+     <Text>You requested 6-digit code too many times in a specific timing. Please start over the process in a couple of minutes</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_artist_already_exists_on_your_list</Text>
+     <Text>This artist is already on your list!</Text>
+    </Crn>
+    <Crn>
+     <Row>10</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_song_already_exists_on_your_list</Text>
+     <Text>This song is already on your list!</Text>
+    </Crn>
+    <Crn>
+     <Row>11</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_cannot_change_your_city</Text>
+     <Text>You cannot change your city more than once every 30 days.</Text>
+    </Crn>
+    <Crn>
+     <Row>12</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_failed_to_load_the_profile</Text>
+     <Text>Failed to Load the Profile</Text>
+    </Crn>
+    <Crn>
+     <Row>13</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_this_app_does_not_have_access_to_your_photos</Text>
+     <Text>This app does not have access\n to your photos</Text>
+    </Crn>
+    <Crn>
+     <Row>14</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_cannot_load_markers</Text>
+     <Text>We couldnÍt locate other fans! Please try again.</Text>
+    </Crn>
+    <Crn>
+     <Row>15</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_cannot_find_my_location</Text>
+     <Text>Tap the GPS button for us to locate you!</Text>
+    </Crn>
+    <Crn>
+     <Row>16</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_cannot_check_in</Text>
+     <Text>We couldnÍt check you in! Please try again.</Text>
+    </Crn>
+    <Crn>
+     <Row>17</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>app_name</Text>
+     <Text>MMT Play</Text>
+    </Crn>
+    <Crn>
+     <Row>18</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>app_logo</Text>
+     <Text>P\u0020I\u0020T\u0020A</Text>
+    </Crn>
+    <Crn>
+     <Row>19</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>title_home</Text>
+     <Text>Home</Text>
+    </Crn>
+    <Crn>
+     <Row>20</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>title_dashboard</Text>
+     <Text>Dashboard</Text>
+    </Crn>
+    <Crn>
+     <Row>21</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>title_notifications</Text>
+     <Text>Notifications</Text>
+    </Crn>
+    <Crn>
+     <Row>22</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>enter_your_phone_number</Text>
+     <Text>Enter your phone number</Text>
+    </Crn>
+    <Crn>
+     <Row>23</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>enter_phone_number</Text>
+     <Text>Enter phone number</Text>
+    </Crn>
+    <Crn>
+     <Row>24</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>terms_and_condition</Text>
+     <Text>&lt;![CDATA[By Signing in, You agree to the &lt;u&gt;Terms &amp; Conditions&lt;/u&gt; of MyMusicTaste.]]&gt;</Text>
+    </Crn>
+    <Crn>
+     <Row>25</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>select_country</Text>
+     <Text>Select Country</Text>
+    </Crn>
+    <Crn>
+     <Row>26</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>sign_up_or_retry</Text>
+     <Text>play is an application for verified MMT users now. please sign up first or verify your phone number please!</Text>
+    </Crn>
+    <Crn>
+     <Row>27</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>sign_up</Text>
+     <Text>Sign Up</Text>
+    </Crn>
+    <Crn>
+     <Row>28</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>edit</Text>
+     <Text>&lt;u&gt;Edit&lt;/u&gt;</Text>
+    </Crn>
+    <Crn>
+     <Row>29</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>sent_code</Text>
+     <Text>We have sent you a 6-digit code.</Text>
+    </Crn>
+    <Crn>
+     <Row>30</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>enter_code</Text>
+     <Text>Enter 6-digit code</Text>
+    </Crn>
+    <Crn>
+     <Row>31</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>retry</Text>
+     <Text>&lt;u&gt;retry&lt;/u&gt;</Text>
+    </Crn>
+    <Crn>
+     <Row>32</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>retry_pure</Text>
+     <Text>Retry</Text>
+    </Crn>
+    <Crn>
+     <Row>33</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>url_terms_and_conditions</Text>
+     <Text>&lt;![CDATA[https://www.mymusictaste.com/terms/]]&gt;</Text>
+    </Crn>
+    <Crn>
+     <Row>34</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>profile</Text>
+     <Text>Profile</Text>
+    </Crn>
+    <Crn>
+     <Row>35</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>change_photo</Text>
+     <Text>&lt;u&gt;Change Photo&lt;/u&gt;</Text>
+    </Crn>
+    <Crn>
+     <Row>36</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>save</Text>
+     <Text>Save</Text>
+    </Crn>
+    <Crn>
+     <Row>37</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>name</Text>
+     <Text>Name</Text>
+    </Crn>
+    <Crn>
+     <Row>38</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>my_city</Text>
+     <Text>My City</Text>
+    </Crn>
+    <Crn>
+     <Row>39</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>current_status</Text>
+     <Text>Current status</Text>
+    </Crn>
+    <Crn>
+     <Row>40</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>transition_edit_name</Text>
+     <Text>transition_edit_name</Text>
+    </Crn>
+    <Crn>
+     <Row>41</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>transition_edit_bio</Text>
+     <Text>transition_edit_bio</Text>
+    </Crn>
+    <Crn>
+     <Row>42</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>transition_edit_city</Text>
+     <Text>transition_edit_city</Text>
+    </Crn>
+    <Crn>
+     <Row>43</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>user_name</Text>
+     <Text>Username</Text>
+    </Crn>
+    <Crn>
+     <Row>44</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>edit_name_max_length</Text>
+     <Text>/15</Text>
+    </Crn>
+    <Crn>
+     <Row>45</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>edit_status_max_length</Text>
+     <Text>/60</Text>
+    </Crn>
+    <Crn>
+     <Row>46</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>find_my_city</Text>
+     <Text>Find my city</Text>
+    </Crn>
+    <Crn>
+     <Row>47</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>manage_my_songs</Text>
+     <Text>Manage My Songs</Text>
+    </Crn>
+    <Crn>
+     <Row>48</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>manage_my_artists</Text>
+     <Text>Manage My Artists</Text>
+    </Crn>
+    <Crn>
+     <Row>49</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>set_a_profile_photo</Text>
+     <Text>Set a Profile Photo</Text>
+    </Crn>
+    <Crn>
+     <Row>50</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>take_photo</Text>
+     <Text>Take Photo</Text>
+    </Crn>
+    <Crn>
+     <Row>51</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>select_image</Text>
+     <Text>Select image</Text>
+    </Crn>
+    <Crn>
+     <Row>52</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>gallery</Text>
+     <Text>Gallery</Text>
+    </Crn>
+    <Crn>
+     <Row>53</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>edit_profile</Text>
+     <Text>Edit Profile</Text>
+    </Crn>
+    <Crn>
+     <Row>54</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>my_artists</Text>
+     <Text>My Artists</Text>
+    </Crn>
+    <Crn>
+     <Row>55</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>search_an_artist</Text>
+     <Text>Search an artist</Text>
+    </Crn>
+    <Crn>
+     <Row>56</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>search_a_song</Text>
+     <Text>Search a song</Text>
+    </Crn>
+    <Crn>
+     <Row>57</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>add_artist</Text>
+     <Text>Add Artist</Text>
+    </Crn>
+    <Crn>
+     <Row>58</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>add_song</Text>
+     <Text>Add Song</Text>
+    </Crn>
+    <Crn>
+     <Row>59</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>find_your_city</Text>
+     <Text>Find your city</Text>
+    </Crn>
+    <Crn>
+     <Row>60</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>my_song</Text>
+     <Text>My Song</Text>
+    </Crn>
+    <Crn>
+     <Row>61</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>leaderboard</Text>
+     <Text>Leaderboard</Text>
+    </Crn>
+    <Crn>
+     <Row>62</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>question_about_edit_city</Text>
+     <Text>Are you sure of your city? You canÍt change it for the next 30 days.</Text>
+    </Crn>
+    <Crn>
+     <Row>63</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>question_about_has_not_selected_city</Text>
+     <Text>You wonÍt receive campaign benefits if you donÍt select your city! Are you sure you want to leave? :(</Text>
+    </Crn>
+    <Crn>
+     <Row>64</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>sure</Text>
+     <Text>Yes, I\'m sure</Text>
+    </Crn>
+    <Crn>
+     <Row>65</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>stay</Text>
+     <Text>Stay</Text>
+    </Crn>
+    <Crn>
+     <Row>66</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>leave</Text>
+     <Text>Leave</Text>
+    </Crn>
+    <Crn>
+     <Row>67</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>settings</Text>
+     <Text>Settings</Text>
+    </Crn>
+    <Crn>
+     <Row>68</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>change_country_to_browse_more_music</Text>
+     <Text>&lt;u&gt;Change country to browse more music&lt;/u&gt;</Text>
+    </Crn>
+    <Crn>
+     <Row>69</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>not_sure</Text>
+     <Text>No, IÍm not</Text>
+    </Crn>
+    <Crn>
+     <Row>70</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>campaigns</Text>
+     <Text>Campaigns</Text>
+    </Crn>
+    <Crn>
+     <Row>71</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>you_can_enable_access_in_privacy_settings</Text>
+     <Text>You can enable access in Privacy Settings</Text>
+    </Crn>
+    <Crn>
+     <Row>72</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>notification</Text>
+     <Text>Notification</Text>
+    </Crn>
+    <Crn>
+     <Row>73</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>copyright</Text>
+     <Text>Copyright</Text>
+    </Crn>
+    <Crn>
+     <Row>74</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>faq</Text>
+     <Text>FAQ</Text>
+    </Crn>
+    <Crn>
+     <Row>75</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>terms_of_use</Text>
+     <Text>Terms Of Use</Text>
+    </Crn>
+    <Crn>
+     <Row>76</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>logout</Text>
+     <Text>Log out</Text>
+    </Crn>
+    <Crn>
+     <Row>77</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>has_not_access_to_your_location</Text>
+     <Text>This app does not have access to your location</Text>
+    </Crn>
+    <Crn>
+     <Row>78</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>go_settings</Text>
+     <Text>&lt;u&gt;Go settings&lt;/u&gt;</Text>
+    </Crn>
+    <Crn>
+     <Row>79</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>turn_on_gps</Text>
+     <Text>Turn GPS On</Text>
+    </Crn>
+    <Crn>
+     <Row>80</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>taste_makers_map</Text>
+     <Text>TasteMakers Map</Text>
+    </Crn>
+    <Crn>
+     <Row>81</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>check_in_description</Text>
+     <Text>This map shows the whereabouts of fans like you. Check in to add yours!</Text>
+    </Crn>
+    <Crn>
+     <Row>82</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>check_in</Text>
+     <Text>Check in</Text>
+    </Crn>
+    <Crn>
+     <Row>83</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>error_failed_to_load_tastemakers_map</Text>
+     <Text>Failed to load TasteMakers Map</Text>
+    </Crn>
+    <Crn>
+     <Row>84</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>check_in_time_remaining</Text>
+     <Text>%s left until you can check in again</Text>
+    </Crn>
+    <Crn>
+     <Row>85</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>recent</Text>
+     <Text>RECENT</Text>
+    </Crn>
+    <Crn>
+     <Row>86</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>nearby</Text>
+     <Text>NEARBY</Text>
+    </Crn>
+    <Crn>
+     <Row>87</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>make_points</Text>
+     <Text>Make Points</Text>
+    </Crn>
+    <Crn>
+     <Row>88</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>view_leaderboard</Text>
+     <Text>View Leaderboard</Text>
+    </Crn>
+    <Crn>
+     <Row>89</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>try_again</Text>
+     <Text>Try again</Text>
+    </Crn>
+    <Crn>
+     <Row>90</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>oops</Text>
+     <Text>Oops!</Text>
+    </Crn>
+    <Crn>
+     <Row>91</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>something_went_wrong</Text>
+     <Text>Something went wrong...</Text>
+    </Crn>
+    <Crn>
+     <Row>92</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>empty_campaign_desc</Text>
+     <Text>You have no campaigns on MyMusicTaste. MAKE for your first campaign.</Text>
+    </Crn>
+    <Crn>
+     <Row>93</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>start_making</Text>
+     <Text>START MAKING</Text>
+    </Crn>
+    <Crn>
+     <Row>94</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>congratulations</Text>
+     <Text>Congratulations!</Text>
+    </Crn>
+    <Crn>
+     <Row>95</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>transitioned_campaign_desc</Text>
+     <Text>%1$s\n%2$s\n\nis happening!</Text>
+    </Crn>
+    <Crn>
+     <Row>96</Row>
+     <ColFirst>1</ColFirst>
+     <ColLast>2</ColLast>
+     <Text>check_it_out</Text>
+     <Text>Check it out!</Text>
+    </Crn>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>1</SheetIndex>
+   </Xct>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>2</SheetIndex>
+   </Xct>
+  </SupBook>
+  <WindowHeight>16820</WindowHeight>
+  <WindowWidth>27260</WindowWidth>
+  <WindowTopX>1540</WindowTopX>
+  <WindowTopY>1180</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="EN">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="163" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:AutoFitWidth="0" ss:Width="488"/>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error&quot;&gt;Error&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_default&quot;&gt;Please try again, and if it continues, please report the problem for better service. (%d)&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_incorrect_phone_number&quot;&gt;You entered an incorrect phone number.&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_number_not_verified&quot;&gt;Number not verified&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_unexpected&quot;&gt;Unexpected error&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_invalidate_code&quot;&gt;You entered an invalid 6-digit-code&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_too_many_request&quot;&gt;Too Many Requests&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_too_many_request_message&quot;&gt;You requested 6-digit code too many times in a specific timing. Please start over the process in a couple of minutes&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_artist_already_exists_on_your_list&quot;&gt;This artist is already on your list!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_song_already_exists_on_your_list&quot;&gt;This song is already on your list!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_cannot_change_your_city&quot;&gt;You cannot change your city more than once every 30 days.&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_failed_to_load_the_profile&quot;&gt;Failed to Load the Profile&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_this_app_does_not_have_access_to_your_photos&quot;&gt;This app does not have access\n to your photos&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_cannot_load_markers&quot;&gt;We couldnÍt locate other fans! Please try again.&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_cannot_find_my_location&quot;&gt;Tap the GPS button for us to locate you!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_cannot_check_in&quot;&gt;We couldnÍt check you in! Please try again.&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;app_name&quot;&gt;MMT Play&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;app_logo&quot;&gt;P\u0020I\u0020T\u0020A&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;title_home&quot;&gt;Home&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;title_dashboard&quot;&gt;Dashboard&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;title_notifications&quot;&gt;Notifications&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;enter_your_phone_number&quot;&gt;Enter your phone number&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;enter_phone_number&quot;&gt;Enter phone number&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;terms_and_condition&quot;&gt;&lt;![CDATA[By Signing in, You agree to the &lt;u&gt;Terms &amp; Conditions&lt;/u&gt; of MyMusicTaste.]]&gt;&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;select_country&quot;&gt;Select Country&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;sign_up_or_retry&quot;&gt;play is an application for verified MMT users now. please sign up first or verify your phone number please!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;sign_up&quot;&gt;Sign Up&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;edit&quot;&gt;&lt;u&gt;Edit&lt;/u&gt;&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;sent_code&quot;&gt;We have sent you a 6-digit code.&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;enter_code&quot;&gt;Enter 6-digit code&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;retry&quot;&gt;&lt;u&gt;retry&lt;/u&gt;&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;retry_pure&quot;&gt;Retry&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;url_terms_and_conditions&quot;&gt;&lt;![CDATA[https://www.mymusictaste.com/terms/]]&gt;&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;profile&quot;&gt;Profile&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;change_photo&quot;&gt;&lt;u&gt;Change Photo&lt;/u&gt;&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;save&quot;&gt;Save&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;name&quot;&gt;Name&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;my_city&quot;&gt;My City&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;current_status&quot;&gt;Current status&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;transition_edit_name&quot;&gt;transition_edit_name&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;transition_edit_bio&quot;&gt;transition_edit_bio&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;transition_edit_city&quot;&gt;transition_edit_city&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;user_name&quot;&gt;Username&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;edit_name_max_length&quot;&gt;/15&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;edit_status_max_length&quot;&gt;/60&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;find_my_city&quot;&gt;Find my city&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;manage_my_songs&quot;&gt;Manage My Songs&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;manage_my_artists&quot;&gt;Manage My Artists&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;set_a_profile_photo&quot;&gt;Set a Profile Photo&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;take_photo&quot;&gt;Take Photo&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;select_image&quot;&gt;Select image&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;gallery&quot;&gt;Gallery&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;edit_profile&quot;&gt;Edit Profile&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;my_artists&quot;&gt;My Artists&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;search_an_artist&quot;&gt;Search an artist&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;search_a_song&quot;&gt;Search a song&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;add_artist&quot;&gt;Add Artist&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;add_song&quot;&gt;Add Song&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;find_your_city&quot;&gt;Find your city&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;my_song&quot;&gt;My Song&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;leaderboard&quot;&gt;Leaderboard&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;question_about_edit_city&quot;&gt;Are you sure of your city? You canÍt change it for the next 30 days.&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;question_about_has_not_selected_city&quot;&gt;You wonÍt receive campaign benefits if you donÍt select your city! Are you sure you want to leave? :(&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;sure&quot;&gt;Yes, I\'m sure&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;stay&quot;&gt;Stay&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;leave&quot;&gt;Leave&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;settings&quot;&gt;Settings&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;change_country_to_browse_more_music&quot;&gt;&lt;u&gt;Change country to browse more music&lt;/u&gt;&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;not_sure&quot;&gt;No, IÍm not&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;campaigns&quot;&gt;Campaigns&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;you_can_enable_access_in_privacy_settings&quot;&gt;You can enable access in Privacy Settings&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;notification&quot;&gt;Notification&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;copyright&quot;&gt;Copyright&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;faq&quot;&gt;FAQ&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;terms_of_use&quot;&gt;Terms Of Use&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;logout&quot;&gt;Log out&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;has_not_access_to_your_location&quot;&gt;This app does not have access to your location&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;go_settings&quot;&gt;&lt;u&gt;Go settings&lt;/u&gt;&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;turn_on_gps&quot;&gt;Turn GPS On&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;taste_makers_map&quot;&gt;TasteMakers Map&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;check_in_description&quot;&gt;This map shows the whereabouts of fans like you. Check in to add yours!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;check_in&quot;&gt;Check in&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;error_failed_to_load_tastemakers_map&quot;&gt;Failed to load TasteMakers Map&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;check_in_time_remaining&quot;&gt;%s left until you can check in again&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;recent&quot;&gt;RECENT&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;nearby&quot;&gt;NEARBY&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;make_points&quot;&gt;Make Points&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;view_leaderboard&quot;&gt;View Leaderboard&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;try_again&quot;&gt;Try again&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;oops&quot;&gt;Oops!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;something_went_wrong&quot;&gt;Something went wrong...&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;empty_campaign_desc&quot;&gt;You have no campaigns on MyMusicTaste. MAKE for your first campaign.&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;start_making&quot;&gt;START MAKING&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;congratulations&quot;&gt;Congratulations!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;transitioned_campaign_desc&quot;&gt;%1$s\n%2$s\n\nis happening!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String">&lt;string name=&quot;check_it_out&quot;&gt;Check it out!&lt;/string&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell
+     ss:Formula="=IF(LEN('/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1])&gt;1, CONCATENATE(&quot;&lt;string name=&quot;,&quot;&quot;&quot;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[1],&quot;&quot;&quot;&quot;,&quot;&gt;&quot;,'/Users/antonypark/Documents/l10n test/Android/Values/[Wording.xlsx]List'!R[1]C[2],&quot;&lt;/string&gt;&quot;),&quot;&quot;)"><Data
+      ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
